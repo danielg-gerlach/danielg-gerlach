@@ -87,52 +87,6 @@ Designing data models optimized for analytics and BI
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=danielg-gerlach&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=danielg-gerlach&show_icons=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielg-gerlach&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielg-gerlach&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielg-gerlach&layout=compact&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielg-gerlach&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielg-gerlach&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielg-gerlach&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielg-gerlach&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  </picture>
-</div>
-
-<br/>
-
 ## 🎯 Current Focus
 
 - 🔧 Building scalable ETL pipelines with modern data stack
