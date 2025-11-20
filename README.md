@@ -1,84 +1,149 @@
 # Hi there 👋 I'm Daniel
 
-**`Student | Data & AI`**
-
-I'm a Business Informatics student specializing in Data Engineering & AI Application Development, passionate about building robust, scalable data infrastructure and AI-driven applications that power intelligent decision-making.
-My interests span the entire data lifecycle - from ingesting and processing of raw data to building machine learning & AI pipelines that deliver real-time insights. I really like solving data challenges and optimizing data & AI applications for performance and reliability.
-
-
-I'm currently focused on improving my data understanding as well as technical skillset like Python, SQL (dbt) & Databricks.
-
-<!-- Animated Typing -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Data+Engineering+%F0%9F%93%8A" />
-  </a>
+  <b>Student | Data & AI</b>
 </div>
 
-<!-- Social Links -->
+<br/>
+
 <div align="center">
-  <br/>
-  <a href="https://linkedin.com/in/danielg-gerlach" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/danielg-gerlach">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.daniel-gerlach-data.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  &nbsp;
+  <a href="https://www.daniel-gerlach-data.dev">
+    <img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
-  <a href="danielg-gerlach@outlook.de">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;
+  <a href="mailto:danielg-gerlach@outlook.de">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br/>
 
-<!-- Tech Stack -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
-</h2>
+I'm a Business Informatics student specializing in **Data Engineering & AI Application Development**, passionate about building robust, scalable data infrastructure and AI-driven applications that power intelligent decision-making.
 
+My interests span the entire data lifecycle - from ingesting and processing raw data to building machine learning & AI pipelines that deliver real-time insights.
+
+<br/>
+
+## 📚 Currently Learning
+
+<!-- Custom dark cards using HTML -->
 <div align="center">
-  
-  ### 🔧 Data Engineering
-  <p>
-    <img src="https://img.shields.io/badge/dbt-FF6849?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  </p>
+<table>
+<tr>
+<td width="300px" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
 
-  ### 🤖 AI & Machine Learning
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  </p>
+<h3 align="left" style="color: #58a6ff;">dbt (Data Build Tool)</h3>
 
-  ### ☁️ Cloud & Databases
-  <p>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-    <img src="https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </p>
+Building modular SQL transformations for data warehousing
 
-  ### 🛠️ Tools & Technologies
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
+</td>
+<td width="300px" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+
+<h3 align="left" style="color: #58a6ff;">PySpark</h3>
+
+Data transformation & cleaning using Spark
+
+</td>
+<td width="300px" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
+
+<h3 align="left" style="color: #58a6ff;">Dimensional Data Modeling</h3>
+
+Designing data models optimized for analytics and BI
+
+</td>
+</tr>
+</table>
 </div>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&fontSize=15&fontColor=fff&animation=twinkling" alt="Footer" />
-</div>
+<br/>
 
-<!-- Snake Animation -->
+## 🛠 Tech Stack
+
+#### Data Engineering
+![dbt](https://img.shields.io/badge/dbt-FF6849?style=flat&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+
+#### Programming & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+#### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=danielg-gerlach&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=danielg-gerlach&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielg-gerlach&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
   </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielg-gerlach&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielg-gerlach&layout=compact&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielg-gerlach&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielg-gerlach&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=danielg-gerlach&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielg-gerlach&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  </picture>
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+- 🔧 Building scalable ETL pipelines with modern data stack
+- 📊 Implementing data quality frameworks with dbt tests
+- ⚡ Optimizing Spark jobs for large-scale data processing
+- 🏗️ Designing star schema models for analytical workloads
+
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=danielg-gerlach&style=flat&color=58a6ff" alt="Profile Views" />
 </div>
