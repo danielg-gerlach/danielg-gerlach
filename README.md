@@ -8,11 +8,6 @@ My interests span the entire data lifecycle - from ingesting and processing of r
 
 I'm currently focused on improving my data understanding as well as technical skillset like Python, SQL (dbt) & Databricks.
 
-<!-- Header Banner -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Data%20Engineering%20%26%20AI%20Enthusiast&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Transforming%20Data%20into%20Intelligence&descAlignY=55&descSize=18" alt="Header" />
-</div>
-
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
