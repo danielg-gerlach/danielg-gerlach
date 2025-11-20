@@ -11,7 +11,7 @@ I'm currently focused on improving my data understanding as well as technical sk
 <!-- Animated Typing -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Data+Engineering+&+AI+%F0%9F%93%8A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Data+Engineering+%F0%9F%93%8A" />
   </a>
 </div>
 
