@@ -90,7 +90,6 @@ Designing data models optimized for analytics and BI
 
 - 🔧 Building scalable ETL pipelines with modern data stack
 - 📊 Implementing data quality frameworks with dbt tests
-- ⚡ Optimizing Spark jobs for large-scale data processing
 - 🏗️ Designing star schema models for analytical workloads
 
 <br/>
