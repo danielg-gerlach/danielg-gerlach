@@ -95,9 +95,3 @@ Designing data models optimized for analytics and BI
 - 🏗️ Designing star schema models for analytical workloads
 
 <br/>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=danielg-gerlach&style=flat&color=58a6ff" alt="Profile Views" />
-</div>
