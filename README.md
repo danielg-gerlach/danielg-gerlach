@@ -69,19 +69,6 @@ I'm currently focused on improving my data understanding as well as technical sk
   </p>
 </div>
 
-<!-- Current Focus -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30"> Current Focus
-</h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="line" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%8E%AF+Building+real-time+data+streaming+architectures;%F0%9F%A7%A0+Implementing+MLOps+pipelines+for+production;%F0%9F%93%88+Optimizing+large-scale+data+processing+workflows;%F0%9F%94%AC+Researching+cutting-edge+AI+applications" alt="Current Focus" />
-</p>
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&fontSize=15&fontColor=fff&animation=twinkling" alt="Footer" />
