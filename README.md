@@ -33,23 +33,6 @@ I'm currently focused on improving my data understanding as well as technical sk
 
 <br/>
 
-<!-- About Me Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding" />
-</div>
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-</h2>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="line" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%94%8D+Passionate+about+turning+raw+data+into+actionable+insights;%F0%9F%9A%80+Building+scalable+data+pipelines+and+ML+solutions;%F0%9F%92%A1+Exploring+the+intersection+of+Data+Engineering+and+AI;%F0%9F%8C%90+Creating+intelligent+systems+that+make+a+difference" alt="About Me Typing" />
-</p>
-
 <!-- Tech Stack -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
@@ -86,29 +69,6 @@ I'm currently focused on improving my data understanding as well as technical sk
   </p>
 </div>
 
-<!-- GitHub Stats -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEIN-GITHUB-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-GITHUB-USERNAME&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN-GITHUB-USERNAME&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<!-- Activity Graph -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> Contribution Graph
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEIN-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 <!-- Current Focus -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="30"> Current Focus
@@ -122,23 +82,9 @@ I'm currently focused on improving my data understanding as well as technical sk
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%8E%AF+Building+real-time+data+streaming+architectures;%F0%9F%A7%A0+Implementing+MLOps+pipelines+for+production;%F0%9F%93%88+Optimizing+large-scale+data+processing+workflows;%F0%9F%94%AC+Researching+cutting-edge+AI+applications" alt="Current Focus" />
 </p>
 
-<!-- Quote -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> Daily Inspiration
-</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-</div>
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&fontSize=15&fontColor=fff&animation=twinkling" alt="Footer" />
-</div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=danielg-gerlach&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!-- Snake Animation -->
