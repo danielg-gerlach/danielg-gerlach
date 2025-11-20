@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Daniel
 
 <div align="center">
-  <b>Student | Data Engineering & AI</b>
+  <b>Student (M.Sc.) | Data Engineering & AI</b>
 </div>
 
 <br/>
