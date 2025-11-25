@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Daniel
+# Hi there! I'm Daniel 👋
 
 <div align="center">
   <b>Student (M.Sc.) | Data Engineering & AI</b>
