@@ -88,7 +88,7 @@ Designing data models optimized for analytics and BI
 
 ## 🎯 Current Focus
 
-- 🔧 Building scalable ETL pipelines with modern data stack
+- 🔧 Building scalable ELT pipelines with modern data stack
 - 📊 Implementing data quality frameworks with dbt tests
 - 🏗️ Designing star schema models for analytical workloads
 
