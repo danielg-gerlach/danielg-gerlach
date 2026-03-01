@@ -86,10 +86,10 @@ Designing data models optimized for analytics and BI
 
 <br/>
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔧 Building scalable ELT pipelines with modern data stack
-- 📊 Implementing data quality frameworks with dbt tests
-- 🏗️ Designing star schema models for analytical workloads
+- Building scalable ELT pipelines with modern data stack
+- Implementing data quality frameworks with dbt tests
+- Designing star schema models for analytical workloads
 
 <br/>
